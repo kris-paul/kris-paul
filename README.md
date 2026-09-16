@@ -1,16 +1,95 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00C2E0&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Krishan+Paul!;Senior+Technical+Support+Engineer;Developer+Tools+%26+AI;Open+to+Remote+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!--
-**kris-paul/kris-paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎯 Who am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Krishan Paul**, a Senior Technical Support Engineer focused on **Developer Tools & AI**, based in Malaysia (APAC, UTC+8). Educated at **Oklahoma State University**, I work at the intersection of engineering and customer-facing support — debugging distributed systems, building support operations from scratch, and digging into logs and live data to find root cause.
+
+---
+
+## 🛠 What am I working on?
+
+🌱 Growing my expertise in developer-first support and AI-powered tooling
+🎯 Debugging production incidents across AWS, Tencent Cloud, and Aethir
+📊 Writing complex SQL in BigQuery to investigate live system anomalies
+📢 Scaling APAC support operations at Xsolla's Cloud Gaming platform
+
+---
+
+## 👨‍💻 Tech Stack
+
+**Cloud & Infrastructure:**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Tencent Cloud](https://img.shields.io/badge/Tencent%20Cloud-006EFF.svg?style=flat&logo=tencentqq&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4.svg?style=flat&logo=googlecloud&logoColor=white)
+
+**Observability & Workflow:**
+![Datadog](https://img.shields.io/badge/Datadog-632CA6.svg?style=flat&logo=datadog&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000.svg?style=flat&logo=temporal&logoColor=white)
+![GitHub Issues](https://img.shields.io/badge/GitHub%20Issues-181717.svg?style=flat&logo=github&logoColor=white)
+
+**Scripting & Query:**
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat&logo=postgresql&logoColor=white)
+
+**Tools & Collaboration:**
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
+
+**Currently Learning:**
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+## Timeline Highlights
+
+*2023 - now:*
+- founding APAC support engineer at Xsolla's Cloud Gaming platform
+- built APAC support operations from scratch — onboarding merchants, publishers, and 200+ game developers across the region
+- debugging production incidents across distributed cloud infrastructure (AWS, Tencent Cloud, Aethir)
+- writing complex SQL queries in BigQuery to investigate authentication, session, and billing anomalies in live environments
+- maintaining observability systems with Datadog and tracing async workflow failures with Temporal
+
+*2022 - 2023:*
+- software engineer at Dell Technologies
+- defect triage and reproduction across enterprise applications
+- structured escalation workflows via GitHub Issues and internal ticketing systems
+
+*2021 - 2022:*
+- IT & technical support engineer at BD (Becton Dickinson)
+- supported 300+ users across enterprise IT systems with 90%+ CSAT
+
+*2020 - 2021:*
+- desktop support engineer at PCCW Solutions
+- end-to-end incident lifecycle management across multi-site enterprise environments
+
+### Currently
+- open to remote Senior Technical Support Engineer roles with developer-first, remote-first companies
+- based in Malaysia, APAC (UTC+8)
+- reach me at krispaul.inbox@gmail.com
+
+---
+
+## 🎓 Education
+
+**Oklahoma State University**
+Bachelor of Science in Business Administration (BSBA)
+Major in Management Information Systems (MIS)
+
+---
+
+### 💬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishan-paul)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/krishan-paul)
+
+---
+
+### 🎉 Thanks for stopping by! 👋
+
+*(Feel free to check out my repositories or reach out if you're hiring for developer-first support roles!)*
