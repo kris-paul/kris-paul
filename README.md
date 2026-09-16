@@ -85,6 +85,7 @@ Major in Management Information Systems (MIS)
 
 ### 💬 Let's Connect!
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-kris--paul.github.io-00C2E0?style=flat&logo=githubpages&logoColor=white)](https://kris-paul.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishan-paul)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/krishan-paul)
 
